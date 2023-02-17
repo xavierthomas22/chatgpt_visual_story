@@ -1,0 +1,6 @@
+revChatGPT
+dalle2
+diffusers 
+transformers 
+streamlit_extras
+#jinja2==3.0.1
